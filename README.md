@@ -1,9 +1,6 @@
 # face-and-eye-detection
 Computer Vision face and eye detection using haar cascade and Open CV
 
-# face-and-eye-detection
-Computer Vision face and eye detection using haar cascade and Open CV
-
 ## About project 
 This is a simple project that I created when I explored computer vision using Open CV. It used haar cascade for face and eyes data set.
 
