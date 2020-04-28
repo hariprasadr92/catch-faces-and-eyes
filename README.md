@@ -2,7 +2,7 @@
 Computer Vision face and eye detection using haar cascade and Open CV
 
 ## About project 
-This is a simple project that I created when I explored computer vision using Open CV. It used haar cascade for face and eyes data set.
+This is a simple project that I created when I explored computer vision using Open CV. It uses haar cascade for face and eyes data set.
 
 You can use this project as a stand alone application ( program runs and records video from front cam ) or as a client-server model ( client records and sends []using TCP] video to server for processing). I tested it over WLAN. Explore futher if your requirements demand more.
 
